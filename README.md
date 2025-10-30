@@ -33,4 +33,4 @@ A Python GUI tool built with **Tkinter** that evaluates password strength using:
 1. Install dependencies:
    ```bash
    pip install requests
-Run the app:   python password_checker_gui_with_copy.py
+Run the app:   python password_checker_gui.py
