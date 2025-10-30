@@ -28,9 +28,11 @@ A Python GUI tool built with **Tkinter** that evaluates password strength using:
 - CSV, hashlib, re, math
 
 ---
-
 ## 💻 How to Run
-1. Install dependencies:
+
+1. **Install dependencies** (make sure Python 3.10+ is installed):
    ```bash
-   pip install requests
-Run the app:   python password_checker_gui.py
+   pip install -r requirements.txt
+---
+ ## 💻 How to Run the app  
+  python password_checker_gui.py
